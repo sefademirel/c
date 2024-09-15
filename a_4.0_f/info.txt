@@ -1,0 +1,3 @@
+Ana Klasör: a
+Ýkinci Seviye Klasör: 4.0
+Üçüncü Seviye Klasör: f
